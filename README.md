@@ -1,2 +1,4 @@
 # CheatSheets
-Cheat sheets on different computer science subject or language. 
+Cheat sheets / reminders of different computer science subject or language. 
+
+## Content:
